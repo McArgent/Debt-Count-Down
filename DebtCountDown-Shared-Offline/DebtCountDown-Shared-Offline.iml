@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="Flex" version="4">
+  <component name="FlexBuildConfigurationManager" active="DebtCountDown-Shared-Offline">
+    <configurations>
+      <configuration name="DebtCountDown-Shared-Offline" target-platform="Desktop" output-type="Library" output-file="DebtCountDown-Shared-Offline.swc" output-folder="$MODULE_DIR$/bin">
+        <dependencies>
+          <entries>
+            <entry module-name="DebtCountDown-Core" build-configuration-name="DebtCountDown-Core">
+              <dependency linkage="Merged" />
+            </entry>
+          </entries>
+          <sdk name="4.11" />
+        </dependencies>
+        <compiler-options>
+          <map>
+            <entry key="compiler.locale" value="en_US" />
+          </map>
+          <option name="additionalOptions" value="-define=CONFIG::debugtrace,true" />
+        </compiler-options>
+        <packaging-air-desktop />
+        <packaging-android />
+        <packaging-ios />
+      </configuration>
+    </configurations>
+    <compiler-options />
+  </component>
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+    </content>
+    <orderEntry type="jdk" jdkName="4.11" jdkType="Flex SDK Type (new)" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="DebtCountDown-Core" exported="" />
+  </component>
+</module>
+

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/DebtCountDown-Core/DebtCountDown-Core.iml" filepath="$PROJECT_DIR$/DebtCountDown-Core/DebtCountDown-Core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DebtCountDown-Desktop/DebtCountDown-Desktop.iml" filepath="$PROJECT_DIR$/DebtCountDown-Desktop/DebtCountDown-Desktop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DebtCountDown-Phone/DebtCountDown-Phone.iml" filepath="$PROJECT_DIR$/DebtCountDown-Phone/DebtCountDown-Phone.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DebtCountDown-Shared-Offline/DebtCountDown-Shared-Offline.iml" filepath="$PROJECT_DIR$/DebtCountDown-Shared-Offline/DebtCountDown-Shared-Offline.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DebtCountDown-Shared-PC/DebtCountDown-Shared-PC.iml" filepath="$PROJECT_DIR$/DebtCountDown-Shared-PC/DebtCountDown-Shared-PC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DebtCountDown-Tablet/DebtCountDown-Tablet.iml" filepath="$PROJECT_DIR$/DebtCountDown-Tablet/DebtCountDown-Tablet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DebtCountDown-Web/DebtCountDown-Web.iml" filepath="$PROJECT_DIR$/DebtCountDown-Web/DebtCountDown-Web.iml" />
+    </modules>
+  </component>
+</project>
+
