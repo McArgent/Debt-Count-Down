@@ -77,9 +77,6 @@
 					<include name="DebtCountDown-Shared-PC.swc"/>
 				</compiler.include-libraries>
 				<compiler.define name="CONFIG::debugtrace" value="false"/>
-				<library-path dir="${APP_ROOT}/libs" append="true">
-					<include name="**/*.swc" />
-				</library-path>
 				<default-size width="800" height="600" />
          </mxmlc>
 		<copy file="${FLEX_HOME}/frameworks/rsls/framework_4.6.0.23201.swf" todir="${OUTPATH}" overwrite="true"/>

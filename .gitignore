@@ -11,6 +11,7 @@
 .project
 .flexLibProperties
 */certs/*.p12
+*/certs/*.pfx
 /DebtCountDown-Phone/build.properties
 /DebtCountDown-Desktop/build.properties
 */nbproject/

@@ -66,10 +66,6 @@
 			
 			<include-sources dir="${APP_ROOT}/src" includes="com"/>
 			
-			<library-path dir="${APP_ROOT}/libs" append="true">
-			    <include name="**/*.swc" />
-			</library-path>
-			
 			<compiler.define name="CONFIG::debugtrace" value="false"/>
 		</compc>
 

@@ -105,9 +105,6 @@
 					<include name="DebtCountDown-Shared-PC.swc"/>
 				</compiler.include-libraries>
 				<compiler.define name="CONFIG::debugtrace" value="false"/>
-				<library-path dir="${APP_ROOT}/libs" append="true">
-					<include name="**/*.swc" />
-				</library-path>
 				<default-size width="800" height="600" />
          </mxmlc>
     </target>

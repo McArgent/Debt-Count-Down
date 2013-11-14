@@ -103,9 +103,6 @@
 					<include name="DebtCountDown-Shared-Offline.swc"/>
 				</compiler.include-libraries>
 				<compiler.define name="CONFIG::debugtrace" value="false"/>
-				<library-path dir="${APP_ROOT}/libs" append="true">
-					<include name="**/*.swc" />
-				</library-path>
          </mxmlc>
     </target>
 	
